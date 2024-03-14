@@ -1,0 +1,1 @@
+# vite-hmr-symlink-bug-example
